@@ -35,9 +35,5 @@
 * **Backend**: PHP
 * **Frontend**: HTML5, CSS3
 * **Database**: MySQL (with Workbench model)
-* **PDF Generation**: FPDF (`fpdf184/`)
+* **PDF Generation**: FPDF
 * **Other Tools**: MySQL Workbench, Excel
-
-
-
-Do you want me to also create a **short GitHub description** (like tagline + one-liner) for this repo, so it looks attractive on your profile?
