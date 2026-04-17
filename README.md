@@ -1,39 +1,37 @@
-
 # ❄️ Data Blizzards
 
-**Data Blizzards** is a PHP + MySQL-based web application designed to manage customer information, orders, and invoice generation. It provides a simple yet powerful system to handle data records with proper normalization, while also enabling PDF report generation for business needs.
+## 📌 Overview
+Data Blizzards is a web application built using PHP and MySQL for managing customer data, orders, and invoice generation. It demonstrates backend development concepts such as CRUD operations, relational database design, and dynamic report generation.
 
 ---
 
-## 🚀 Features
-
-### 🔹 Customer Management
-
-* Add, update, and delete customer records
-* Store and manage customer details efficiently
-
-### 🔹 Order & Data Handling
-
-* Place and manage orders linked to customers
-* Retrieve and display records dynamically from MySQL
-
-### 🔹 PDF Reports (Invoices)
-
-* Generate downloadable **PDF invoices/receipts** using the **FPDF library**
-* Export clean, professional reports
-
-### 🔹 Database Design
-
-* Fully normalized **MySQL database** (3NF normalization documented)
-* Includes **MySQL Workbench ER model** (`.mwb`) and schema files
-* Excel documentation (`.xlsx`) for better database understanding
+## 🛠 Tech Stack
+- PHP  
+- HTML5  
+- CSS3  
+- MySQL (Relational Database)  
+- FPDF (PDF Generation)  
+- MySQL Workbench  
+- Excel (Documentation)  
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features
+- 👤 Customer management (add, update, delete records)  
+- 📦 Order management linked with customer data  
+- 📊 Dynamic data retrieval from MySQL database  
+- 🧾 PDF invoice generation using FPDF library  
+- 🗄️ Normalized database design (3NF)  
+- 📁 ER diagram and schema documentation included  
 
-* **Backend**: PHP
-* **Frontend**: HTML5, CSS3
-* **Database**: MySQL (with Workbench model)
-* **PDF Generation**: FPDF
-* **Other Tools**: MySQL Workbench, Excel
+---
+
+## 🚀 Live Demo
+(Not deployed)
+
+---
+
+## ⚙️ Installation & Setup
+```bash
+git clone https://github.com/ravisadariya/Data-Blizzards.git
+cd Data-Blizzards
